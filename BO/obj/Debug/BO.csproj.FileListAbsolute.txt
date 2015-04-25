@@ -1,0 +1,15 @@
+G:\Programming\Visual studio\FormSnapping\BO\bin\Debug\BO.dll
+G:\Programming\Visual studio\FormSnapping\BO\bin\Debug\BO.pdb
+G:\Programming\Visual studio\FormSnapping\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+G:\Programming\Visual studio\FormSnapping\BO\obj\Debug\BO.dll
+G:\Programming\Visual studio\FormSnapping\BO\obj\Debug\BO.pdb
+H:\2nd year, 1st term\C# Program\sabuj\FormSnapping\BO\bin\Debug\BO.dll
+H:\2nd year, 1st term\C# Program\sabuj\FormSnapping\BO\bin\Debug\BO.pdb
+H:\2nd year, 1st term\C# Program\sabuj\FormSnapping\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+H:\2nd year, 1st term\C# Program\sabuj\FormSnapping\BO\obj\Debug\BO.dll
+H:\2nd year, 1st term\C# Program\sabuj\FormSnapping\BO\obj\Debug\BO.pdb
+H:\2nd year, 1st term\C# Program\Home Work5\BO\bin\Debug\BO.dll
+H:\2nd year, 1st term\C# Program\Home Work5\BO\bin\Debug\BO.pdb
+H:\2nd year, 1st term\C# Program\Home Work5\BO\obj\Debug\BO.dll
+H:\2nd year, 1st term\C# Program\Home Work5\BO\obj\Debug\BO.pdb
+H:\2nd year, 1st term\C# Program\Home Work5\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
